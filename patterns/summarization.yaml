@@ -1,0 +1,20 @@
+# Summarization Prompt Pattern Template
+
+This file contains a template for summarization prompts designed to demonstrate a 50% reduction in token usage.
+
+## Example Input
+
+```plaintext
+Input: "In recent years, the technological landscape has evolved dramatically, with advancements in artificial intelligence, machine learning, and data analytics leading the charge. These innovations have revolutionized various industries, allowing for greater efficiency and enhanced decision-making capabilities."
+```
+
+## Example Output
+
+```plaintext
+Output: "Recent advancements in AI and data analytics have revolutionized industries, enhancing efficiency."
+```
+
+## Summary of Token Savings
+- **Original Input Tokens:** 46
+- **Summarized Output Tokens:** 23
+- **Token Savings:** 50%
